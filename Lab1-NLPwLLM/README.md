@@ -10,7 +10,9 @@
 ## 🔧 Preparation
 1. Each group should have access to a computer with internet connection.  
 2. Use any available LLM platform:  
-
+    - [Deepseek](https://www.deepseek.com/)
+    - [Tongyi](https://www.tongyi.com/)
+    - [Doubao](https://www.doubao.com/chat/)
 3. Copy the provided **case texts (in Chinese)** to be used as inputs.  
 
 ---
