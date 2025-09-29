@@ -83,7 +83,7 @@
 ---
 
 ## 📊 Lab Report Requirements
-Each group should submit a short report (1–2 pages) including:  
+Each student should have a short report (1–2 pages) including:  
 1. Screenshots of prompts and outputs for each task.  
 2. A summary of what types of prompts worked best.  
 3. Critical reflection: What problems or risks did you observe in AI-generated results?  
