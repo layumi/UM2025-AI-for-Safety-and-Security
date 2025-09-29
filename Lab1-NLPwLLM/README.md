@@ -88,4 +88,9 @@ Each group should submit a short report (1–2 pages) including:
 
 ---
 
+## ⚠️ Notes
+- **Privacy:** All case texts are fictional. Do not use real personal data.  
+- **Critical Thinking:** Treat AI outputs as suggestions, not absolute truth.  
+- **Exploration:** Feel free to try different prompts or different LLMs and compare the results.  
+
 
