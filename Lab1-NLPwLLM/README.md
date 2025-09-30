@@ -70,10 +70,14 @@
 
 
 **Prompt Template (English):**
+
+让AI扮演警察提问
 ```
 1. You are an interrogator. The suspect has admitted theft but refuses to explain the motive. Please generate **3 follow-up questions** that could help reveal the hidden motive.  
 ```
 
+
+简单生成
 ```
 2.  Based on the suspect’s background and statements, what information might he still be **hiding**?  
 ```
