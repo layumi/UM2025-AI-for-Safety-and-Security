@@ -13,8 +13,6 @@
 
 ## 🔧 Preparation
 1. Access to any Stable Diffusion API or demo:  
-   - [Stable Diffusion 2.1 (Hugging Face)](https://huggingface.co/stabilityai/stable-diffusion-2)  
-   - [Stable Diffusion 2.1 Demo (DeepInfra)](https://deepinfra.com/stabilityai/stable-diffusion-2-1)  
    - [Stable Diffusion-XL](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)  
    - [Stable Diffusion 3.5 Medium](https://huggingface.co/spaces/stabilityai/stable-diffusion-3.5-medium)  
    - [Optional: Flux on CivitAI](https://civitai.com/generate)  
