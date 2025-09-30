@@ -70,11 +70,13 @@
 
 
 **Prompt Template (English):**
-1.  
-> You are an interrogator. The suspect has admitted theft but refuses to explain the motive. Please generate **3 follow-up questions** that could help reveal the hidden motive.  
+```
+1. You are an interrogator. The suspect has admitted theft but refuses to explain the motive. Please generate **3 follow-up questions** that could help reveal the hidden motive.  
+```
 
-2.  
-> Based on the suspect’s background and statements, what information might he still be **hiding**?  
+```
+2.  Based on the suspect’s background and statements, what information might he still be **hiding**?  
+```
 
 **Reflection Questions:**
 - Are the AI-generated questions logical and useful?  
